@@ -2,7 +2,7 @@
 Script to prepare for MacOS 14 and later updates by configuring OpenCore Settings.
 
 At the moment this script only supports
-1. Fnding and mounting the EFI partition
+1. Finding and mounting the EFI partition
 2. Creating a backup of the "config.plist" file
 3. Setting the "SecureBootModel" value in the "config.plist" file
 
