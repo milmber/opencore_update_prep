@@ -10,7 +10,7 @@ At the moment this script only supports
 
 ## Before Updating MacOS
 
-1. Run `python update_secure_boot.py Disable`
+1. Run `python update_secure_boot.py Disabled`
 2. Enter your administrative password to allow the EFI partition to be mounted.
 3. Verify the change in the "config.plist" file
 4. Reboot for changes to take effect
